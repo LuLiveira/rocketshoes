@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 import { darken } from 'polished';
 
-export const ProoductList = styled.ul`
+export const ProductList = styled.ul`
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 20px;
@@ -24,6 +24,7 @@ export const ProoductList = styled.ul`
       line-height: 20px;
       color: #333;
       margin-top: 5px;
+    }
 
       > span {
         font-size: 21px;

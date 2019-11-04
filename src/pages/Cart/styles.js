@@ -80,7 +80,7 @@ export const ProductTable = styled.table`
   }
 `;
 
-export const Tootal = styled.div`
+export const Total = styled.div`
   display: flex;
   align-items: baseline;
 
